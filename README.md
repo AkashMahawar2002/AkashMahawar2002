@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Mahawar</h1>
-<h3 align="center">A passionate Problem Solver from India</h3>
+<h3 align="center"A passionate Tech Streakophilic Student from India</h3>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
